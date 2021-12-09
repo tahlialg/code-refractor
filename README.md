@@ -14,7 +14,7 @@ An increasingly important consideration for businesses, web **accessibility** en
     - Organising them to follow the semantic structure of the HTML elements.
     - Including comments before each element or section of the page.
 
- ## User Story
+## User Story
 
 ```
 AS A marketing agency
