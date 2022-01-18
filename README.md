@@ -1,4 +1,4 @@
-# first-hw-task
+# code-refractor
 
 ## The Task
 
